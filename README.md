@@ -10,9 +10,10 @@ Safety Challenge
 Project is created with:
 * Python 3.6.2 
 * pandas==0.23.4
+* numpy==1.16.3
 * tsfresh==0.11.2
 * scikit-learn==0.20.2
-* scikit-plot==0.3.7
+* matplotlib==2.2.3
 	
 ## Setup
 To run this project, run using python command:
